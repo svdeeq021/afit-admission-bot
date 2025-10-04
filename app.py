@@ -952,6 +952,6 @@ st.divider()
 st.markdown("""
 <div style='text-align: center; color: gray; font-size: 0.8em;'>
 Built for AFIT Admissions by Sadiq Shehu Musa | Powered by AI | 
-<a href='https://github.com/yourusername/afit-admission-bot'>View on GitHub</a>
+<a href='https://github.com/svdeeq021/afit-admission-bot'>View on GitHub</a>
 </div>
 """, unsafe_allow_html=True)
