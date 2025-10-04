@@ -526,6 +526,7 @@ KNOWLEDGE_BASE = """
 # - Computer Science
 
 # Science Courses:
+# - Physics 
 # - Physics with Electronics
 # - Chemistry
 # - Mathematics
